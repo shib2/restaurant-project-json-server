@@ -226,7 +226,7 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "http://ashleeca.com/restaurant/alberto.png",
+      "image": "https://robohash.org/YQZ.png?set=set1&size=150x150",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -235,7 +235,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "http://ashleeca.com/restaurant/alberto.png",
+      "image": "https://robohash.org/YZ6.png?set=set1&size=150x150",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -244,7 +244,7 @@
     {
       "id": 2,
       "name": "Agumbe Tang",
-      "image": "http://ashleeca.com/restaurant/alberto.png",
+      "image": "https://robohash.org/UPU.png?set=set1&size=150x150",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -253,7 +253,7 @@
     {
       "id": 3,
       "name": "Alberto Somayya",
-      "image": "http://ashleeca.com/restaurant/alberto.png",
+      "image": "https://robohash.org/ZMR.png?set=set1&size=150x150",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
